@@ -1,0 +1,12 @@
+{
+    "name": "game-of-life",
+    "version-string": "1.0",
+    "dependencies": [
+        "sdl2",
+        {
+            "name": "imgui",
+            "features": ["sdl2-binding", "docking-experimental"]
+        }
+        
+    ]
+}

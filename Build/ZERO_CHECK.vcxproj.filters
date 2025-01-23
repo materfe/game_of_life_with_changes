@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mat\Desktop\git_desktop_repos\fucking_game_of_life\game_of_life_with_changes\Build\CMakeFiles\210dbc7ea2adb2e7d067e5431d3c65bc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D2227B8E-4C61-3B69-866F-FF65A4540BB1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Mat\Desktop\git_desktop_repos\fucking_game_of_life\game_of_life_with_changes\main\empty.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Mat\Desktop\git_desktop_repos\fucking_game_of_life\game_of_life_with_changes\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{28FB680B-85B3-39C4-A519-0E1CDCEA1B4D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
