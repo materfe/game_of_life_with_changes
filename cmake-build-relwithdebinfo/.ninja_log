@@ -1,0 +1,5 @@
+# ninja log v6
+2	336	7593475613890663	CMakeFiles/Common.dir/Unity/unity_0_cxx.cxx.obj	715531803ab31de2
+337	395	7593475617243315	Common.lib	2383ba88c0ec9b84
+7	494	7593475613940377	CMakeFiles/Game.dir/main/Game.cpp.obj	331983f0982040b2
+494	1295	7593475618814080	Game.exe	e198d0aa7ae58122
